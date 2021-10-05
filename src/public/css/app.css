@@ -1,0 +1,15 @@
+.courses-item {
+  margin: 20px; }
+
+.card {
+  width: fit-content !important; }
+
+.avatar-user {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 2px; }
+
+.select-all-options {
+  width: 100px; 
+}
